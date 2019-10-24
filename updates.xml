@@ -1,0 +1,11 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="193.4386.10" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="IC-192.7142.17" />
+    <option name="LAST_TIME_CHECKED" value="1571916869716" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="UPDATE_CHANNEL_TYPE" value="beta" />
+  </component>
+</application>
